@@ -1,0 +1,20 @@
+table{
+    border-collapse: collapse;
+    width: 20%;
+    margin: 20px auto;
+  }
+  tr{
+    color: aliceblue;
+  }
+ div{
+    
+    background-color: rgb(76, 0, 255);
+    background-image: url(https://blog.edufors.com/wp-content/uploads/2022/02/Imagen-notas-3.png);
+ }
+ h2{
+    color: beige;
+ }
+ p{
+    color: beige; 
+ }
+
